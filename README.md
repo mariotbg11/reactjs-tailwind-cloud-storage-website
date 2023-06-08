@@ -24,5 +24,6 @@
 
 - Reactjs + Vite
 - Javascript
+- TailwindCSS
 - Props with using map() method to get data
 - UseState to make navigation toggle menu
